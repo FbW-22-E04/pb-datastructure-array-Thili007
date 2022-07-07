@@ -6,6 +6,6 @@ let thirdElement = myArray[2];
 
 console.log(thirdElement);
 
-let fourthElement = myArray[3];
+myArray[3] = "fourth Element";
 
-console.log(fourthElement);
+console.log(myArray);
